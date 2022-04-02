@@ -30,7 +30,7 @@ Load the page and enjoy!
 
 - GitHub: [@aimemalaika](https://github.com/aimemalaika)
 - Twitter: [@Aime_Malaika](https://twitter.com/Aime_Malaika)
-- LinkedIn: [Aime Malaika](https://www.linkedin.com/in/aimemalaika/)
+- LinkedIn: [Aime Malaika](https://www.linkedin.com/in/akshitha-reddy-716944198/)
 
 ## 🤝 Contributing
 
